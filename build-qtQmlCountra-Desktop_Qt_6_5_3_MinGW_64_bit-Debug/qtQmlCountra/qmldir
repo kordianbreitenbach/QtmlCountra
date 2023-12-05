@@ -1,0 +1,5 @@
+module qtQmlCountra
+typeinfo appqtQmlCountra.qmltypes
+prefer :/qt/qml/qtQmlCountra/
+Main 1.0 Main.qml
+
